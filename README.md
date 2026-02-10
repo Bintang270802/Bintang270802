@@ -30,7 +30,7 @@ Grafik animasi di bawah ini diperbarui secara otomatis menggunakan GitHub Action
 
 ## 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bintang270802&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Bintang's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bintang270802&show_icons=true&theme=tokyonight&hide_border=true" alt="Bintang's Stats" height="150" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bintang270802&layout=compact&theme=tokyonight&hide_border=true" alt="Bintang's Top Langs" height="150" />
 </p>
 
