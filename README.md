@@ -22,25 +22,31 @@ Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengem
 ---
 
 ## 📈 Contribution Graph & Anime Zone 🎌✨
+
 <div align="center">
   
 ### 🌸 Selamat Datang di Zone Coding Saya! 🌸
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Anime Coding Girl"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/anime/anime-girl-coding.gif" width="400" alt="Anime Coding Girl"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bintang270802&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Anime Sparkle"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Anime Banner"/>
 
 </div>
 
 ---
 
 ## 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bintang270802&show_icons=true&theme=tokyonight&hide_border=true" alt="Bintang's Stats" height="150" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bintang270802&layout=compact&theme=tokyonight&hide_border=true" alt="Bintang's Top Langs" height="150" />
-</p>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Bintang270802&show_icons=true&theme=tokyonight&hide_border=true" alt="Bintang's Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bintang270802&layout=compact&theme=tokyonight&hide_border=true" alt="Bintang's Top Langs" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bintang270802&theme=tokyonight&hide_border=true" alt="Bintang's Streak" width="48%" />
+
+</div>
 
 ---
 
