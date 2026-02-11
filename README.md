@@ -24,7 +24,7 @@ Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengem
 ## 📈 Contribution Graph
 Grafik animasi di bawah ini diperbarui secara otomatis menggunakan GitHub Actions dengan tema anime kawaii 🌸✨:
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Bintang270802/Bintang270802/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Bintang270802/Bintang270802/output/ocean.gif)
 
 ---
 

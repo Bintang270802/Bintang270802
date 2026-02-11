@@ -15,12 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Bintang270802
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#FF69B4&color_dots=#FFB6C1,#FFC0CB,#FFD700,#FF1493,#FF69B4
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF1493&color_dots=#4B0082,#8B008B,#FF69B4,#FFB6C1,#FFC0CB
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
