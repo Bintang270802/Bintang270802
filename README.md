@@ -48,8 +48,6 @@ Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengem
 
 <div align="center">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216649426-3a2c0c1f-6f0e-4b27-b9e6-6b3b0e4b6b6b.gif" width="200" alt="Anime Sparkle"/>
-  
 <img src="https://github-readme-stats.vercel.app/api?username=Bintang270802&show_icons=true&theme=tokyonight&hide_border=true" alt="Bintang's Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bintang270802&layout=compact&theme=tokyonight&hide_border=true" alt="Bintang's Top Langs" width="48%" />
 
