@@ -62,9 +62,9 @@ Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengem
 <div align="center">
 
 <picture>
-  <source media="(max-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-  <source media="(min-width: 769px)" srcset="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Kawaii Anime Girl" width="400"/>
+  <source media="(max-width: 768px)" srcset="https://ani-github.github.io/animegifs/angel-beats/kawaii.gif" width="280">
+  <source media="(min-width: 769px)" srcset="https://ani-github.github.io/animegifs/boku-wa-tomodachi/agree.gif" width="350">
+  <img src="https://ani-github.github.io/animegifs/boku-wa-tomodachi/agree.gif" alt="Kawaii Anime" width="350"/>
 </picture>
 
 <p>
