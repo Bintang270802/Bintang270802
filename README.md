@@ -21,10 +21,18 @@ Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengem
 
 ---
 
-## 📈 Contribution Graph
-Grafik animasi di bawah ini diperbarui secara otomatis menggunakan GitHub Actions dengan tema anime kawaii 🌸✨:
+## 📈 Contribution Graph & Anime Zone 🎌✨
+<div align="center">
+  
+### 🌸 Selamat Datang di Zone Coding Saya! 🌸
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Bintang270802/Bintang270802/output/ocean.gif)
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Anime Coding Girl"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bintang270802&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Anime Sparkle"/>
+
+</div>
 
 ---
 
