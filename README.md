@@ -1,5 +1,11 @@
+<div align="center">
+
 # 👋 Hi, I'm Bintang | @Bintang270802
 ### Full-Stack Developer & Information Systems Graduate
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Anime Girl"/>
+
+</div>
 
 ---
 
@@ -11,6 +17,9 @@
 ---
 
 ## 🛠 Tech Stack
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" alt="Anime Girl Working"/>
+
 Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengembangan perangkat lunak:
 
 <p align="left">
@@ -27,11 +36,9 @@ Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengem
   
 ### 🌸 Selamat Datang di Zone Coding Saya! 🌸
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/anime/anime-girl-coding.gif" width="400" alt="Anime Coding Girl"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bintang270802&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Anime Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Keep%20Coding!%20💖&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" alt="Footer"/>
 
 </div>
 
@@ -40,18 +47,25 @@ Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengem
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216649426-3a2c0c1f-6f0e-4b27-b9e6-6b3b0e4b6b6b.gif" width="200" alt="Anime Sparkle"/>
   
 <img src="https://github-readme-stats.vercel.app/api?username=Bintang270802&show_icons=true&theme=tokyonight&hide_border=true" alt="Bintang's Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bintang270802&layout=compact&theme=tokyonight&hide_border=true" alt="Bintang's Top Langs" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bintang270802&theme=tokyonight&hide_border=true" alt="Bintang's Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bintang270802&theme=tokyonight&hide_border=true" alt="Bintang's Streak" width="70%" />
 
 </div>
 
 ---
 
 ## 🔗 Let's Connect
-<p align="left">
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Anime Wave"/>
+
+<p>
 <a href="https://www.linkedin.com/in/tribintangsaputra/" target="blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -63,5 +77,14 @@ Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengem
 </a>
 </p>
 
+</div>
+
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Wave"/>
+
 *Generated with ✨ by Tri Bintang Saputra*
+
+</div>
