@@ -1,0 +1,54 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/readme-parts/**'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate README
+        run: |
+          cat .github/readme-parts/header.md > README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          cat .github/readme-parts/about.md >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          cat .github/readme-parts/tech-stack.md >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          cat .github/readme-parts/contribution.md >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          cat .github/readme-parts/statistics.md >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          cat .github/readme-parts/connect.md >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          cat .github/readme-parts/footer.md >> README.md
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update README from parts" && git push)
