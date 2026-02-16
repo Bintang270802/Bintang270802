@@ -24,9 +24,13 @@ Ikon-ikon di bawah ini mewakili teknologi dan alat yang saya kuasai untuk pengem
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgresql,php,laravel,python,git,github,vscode,tailwind,bootstrap&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,vue,nextjs,nodejs,express,php,laravel,mysql,postgresql,git,github,vscode&perline=9" />
   </a>
 </p>
+
+**AI Tools:**
+- 🤖 Kiro.AI
+- 💬 ChatGPT
 
 ---
 
